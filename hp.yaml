@@ -1,0 +1,17 @@
+bert_dropout: 0.1
+bert_lr: 4.0e-05
+bert_weight_decay: 0.0
+custom_embeds_layer_index: 11
+hidden_dim: 768
+lr: 0.01
+max_grad_norm: 5.0
+n_freeze: 5
+n_per_zone: uniform
+observed_zone_sizes: null
+random_perm: true
+scheme: bioul
+seed: 12
+tag_dim: 768
+tags_lr: 4.0e-05
+token_dim: 768
+top_dropout: 0.1
